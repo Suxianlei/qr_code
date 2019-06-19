@@ -1,0 +1,1 @@
+"E:\wamp64\bin\php\php5.6.31\php.exe" -f "E:\wamp64\www\qr_code\index.php"
